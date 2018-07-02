@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource/an1_hover.png</file>
+        <file>resource/an2.png</file>
+        <file>resource/an2_hover.png</file>
+        <file>resource/Base.wav</file>
+        <file>resource/bmt.png</file>
+        <file>resource/loading.jpg</file>
+        <file>resource/lose.jpg</file>
+        <file>resource/lose.wav</file>
+        <file>resource/pat12.png</file>
+        <file>resource/people1.png</file>
+        <file>resource/people2.png</file>
+        <file>resource/plbg.jpg</file>
+        <file>resource/tb.ico</file>
+        <file>resource/victor.wav</file>
+        <file>resource/victory.jpg</file>
+        <file>resource/an1.png</file>
+        <file>resource/bg.jpg</file>
+        <file>resource/pat6.png</file>
+        <file>resource/timg.gif</file>
+    </qresource>
+</RCC>
